@@ -25,3 +25,6 @@
 - 프론트엔드(html/javascript) 경험자 분 우대
 - Mongodb 를 이용한 데이터 분석(Aggregation) 작업 경험자 분 우대
 - Celery 사용 경험자 분 우대
+
+## 근무 환경
+[**채용 공고 참조**](readme.md)
