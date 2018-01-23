@@ -14,17 +14,19 @@
 
 ## 필수요건
 
-- Python 및 flask 를 이용한 웹 서비스 개발 능력을 갖추신 분
+- Python 및 
 - 웹 아키텍처에 및 REST API 에 대해 이해하고 그에 따라 REST API를 설계, 구현 가능한 분
-- RDB 및 sqlalchemy 등의 orm 사용할 수 있는 분
 - PyPI 및 기타 오픈 소스를 적재적소에 활용할 수 있는 분
 - 자신의 코드를 동료들에게 보여주는 것에 거리낌이 없는 분
+- 테스트 작성 / 수행 및 그에 따른 추가 작업 수행에 거부감이 없는 분
 
 ## 우대요건
 
+- flask 를 이용한 백엔드 구축 경험자분 우대
 - 프론트엔드(html/javascript) 경험자 분 우대
 - Mongodb 를 이용한 데이터 분석(Aggregation) 작업 경험자 분 우대
 - Celery 사용 경험자 분 우대
+- RDB 및 sqlalchemy 등의 orm 사용할 수 있는 분
 
 ## 근무 환경
 [**채용 공고 참조**](readme.md)
